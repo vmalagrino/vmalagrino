@@ -26,6 +26,7 @@
 
 ### Desafios DIO
 [![Validador Bandeiras Cartão](https://github-readme-stats.vercel.app/api/pin/?username=vmalagrino&repo=validador-bandeiras-cartao&theme=merko)](https://github.com/vmalagrino/validador-bandeiras-cartao)
+[![Pipeline ETL com Python](https://github-readme-stats.vercel.app/api/pin/?username=vmalagrino&repo=desafio-etl-csv-json&theme=merko)](https://github.com/vmalagrino/desafio-etl-csv-json)
 
 ### Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmalagrino&layout=compact&show_icons=true&theme=merko&hide_border=FFF&card_width=494px)
